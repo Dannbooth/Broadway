@@ -3,5 +3,57 @@ h1 {
   text-align: center;
   color: white;
   font-weight: bold;
+  font-family: Helvetica;
+}
+
+h6 {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+
+.hero {
   background-image: url('/Users/kinlabmaclaptop3/Documents/Codeacad/Broadway/resources/Images/Building.png');
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+  text-align: center;
+}
+
+.loop {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.supporting {
+  text-align: center;
+}
+
+.btm-nav {
+  font-size: 18px;
+  color: white;
+}
+
+.hero h2 {
+  font-size: 23px;
 }
